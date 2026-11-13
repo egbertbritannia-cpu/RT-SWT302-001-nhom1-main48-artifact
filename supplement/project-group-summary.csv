@@ -1,0 +1,13 @@
+﻿project_id,group,scopes,scopes_with_helper,median_helper_calls_per_test
+jabref,Collection,4,2,0.2727272727272727
+jabref,Loop,2,0,0.0
+jabref,Recursion,1,0,0.0
+jfreechart,Collection,4,3,0.5996520726456317
+jfreechart,Loop,5,3,0.9472532964287088
+jfreechart,Recursion,3,1,0.0
+moea,Collection,3,2,0.0906784930020901
+moea,Loop,6,4,1.8086373710678119
+moea,Recursion,6,6,1.3860124867148733
+poi,Collection,5,1,0.0
+poi,Loop,3,2,2.234244486004018
+poi,Recursion,6,6,19.17101693933561

@@ -46,3 +46,10 @@ identity limitations remain in force.
 The main study repository remains private. This public artifact repository
 is a separate distribution; its creation does not make the study repository
 public or disclose its full working tree.
+
+## Supplementary methods and results
+
+- [Supplementary PDF](supplement/compact-paper-details.pdf)
+- [Additional methods notes](supplement/methods-details-20261111.md)
+- [Helper audit for all 48 scopes](supplement/scope48.csv)
+- [Helper audit summaries by group](supplement/group-summary.csv) and [by project and group](supplement/project-group-summary.csv)
